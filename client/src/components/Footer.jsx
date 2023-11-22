@@ -72,7 +72,7 @@ const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Avinash
+            vigneshu
           </a>{" "}
           © {new Date().getFullYear()}
         </div>
